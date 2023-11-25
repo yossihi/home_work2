@@ -1,0 +1,21 @@
+.animal {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.menu {
+    background-color: rgb(231, 146, 85);
+    text-align: center;
+    padding: 30px;
+    
+}
+
+.menu-btn {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(250, 115, 115);
+    color: rgb(0, 0, 0);
+    border: 10px solid rgba(245, 39, 3, 0.173);
+    margin: 20px;
+    border-radius: 15px;
+    padding: 5px;
+}
